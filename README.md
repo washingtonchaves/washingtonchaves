@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho como  jr support analyst na empresa Philips
 - 🔭 Integração entre Sistemas RIS/LIS
 - 🔭 Banco de Dados - SQL e PL/SQL
-- 🔭 Aplicações Web usando os padrões abertos XML, JASON, SOAP, WSDL e UDDI em um backbone de protocolo da Internet
+- 🔭 Aplicações Web usando os padrões abertos XML, JSON, SOAP, WSDL e UDDI em um backbone de protocolo da Internet
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 📫 How to reach me: whbchaves@hotmail.com
 
